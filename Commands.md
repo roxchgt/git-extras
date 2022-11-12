@@ -4,7 +4,7 @@
  - [`git authors`](#git-authors)
  - [`git back`](#git-back)
  - [`git bug`](#git-featurerefactorbugchore)
- - [`git bulk`](#git-bulk)
+ - [`git bulllk`](#git-bulk)
  - [`git changelog`](#git-changelog)
  - [`git chore`](#git-featurerefactorbugchore)
  - [`git clear`](#git-clear)
